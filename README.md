@@ -5,6 +5,12 @@
 
 ## Hi there 👋
 
+<a href="https://www.instagram.com/zzz__3z/">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-pink?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
 <!--
 **jeongjinjoo/jeongjinjoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
