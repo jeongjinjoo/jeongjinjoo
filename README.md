@@ -8,6 +8,12 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=enjoy2573)](https://solved.ac/enjoy2573/)
 
+![Jinjoo's github stats](https://github-readme-stats.vercel.app/api?username=jeongjinjoo)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongjinjoo&hide=jupyter%20notebook&layout=compact)
+
+
+
 <a href="https://www.instagram.com/zzz__3z/">
     <img 
         src="http://img.shields.io/badge/-Instagram-pink?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
